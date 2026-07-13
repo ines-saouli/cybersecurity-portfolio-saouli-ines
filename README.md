@@ -142,19 +142,52 @@ Ce laboratoire m'a permis de découvrir les différentes étapes d'une réponse 
 
 ---
 
+## 🦉 NightOwl Media Penetration Test
+
+Évaluation de sécurité d’une infrastructure d’entreprise fictive composée de trois segments réseau, dix machines et vingt vulnérabilités.
+
+Le projet couvre l’exploitation Web, la récupération de secrets, le déplacement latéral, l’analyse de services internes et plusieurs chemins d’élévation de privilèges.
+
+**Compétences développées :**
+- Penetration Testing
+- SQL Injection
+- LFI
+- IDOR
+- JWT Security
+- File Upload RCE
+- FTP / SSH
+- PostgreSQL
+- Samba
+- Lateral Movement
+- Privilege Escalation
+- Remediation
+
+🔗 Repository : https://github.com/ines-saouli/nightowl-media-pentest
+
+---
+
 # 🚀 Roadmap
 
+## ✅ Administration système
+
 - ✅ Linux Mini File Server
-- ✅ StarTech Enterprise Server
+- ✅ StarTech Enterprise Server (Linux)
 - ✅ StarTech Windows Server
 - ✅ TechNova Secure Infrastructure
 - ✅ Linux Incident Response Lab
-- 🟡 Home Lab Linux
-- 🟡 Active Directory
+
+## ✅ Offensive Security
+
+- ✅ NightOwl Media Penetration Test
+
+## 🟡 Projets à venir
+
+- 🟡 Active Directory Home Lab
 - 🟡 Wazuh SIEM
 - 🟡 Splunk
 - 🟡 Windows Event Logs
-- 🟡 Détection d'incidents
+- 🟡 Detection Engineering
+- 🟡 Home Lab SOC
 
 ---
 
