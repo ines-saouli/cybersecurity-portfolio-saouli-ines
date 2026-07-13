@@ -1,5 +1,4 @@
-# 👋 Bonjour, je suis Inès Saouli
-
+# 👋 Bonjour, je suis Inès 
 Bienvenue sur mon portfolio GitHub !
 
 Je suis actuellement en reconversion vers la cybersécurité et titulaire de la certification **Cisco CyberOps Associate**. Aujourd'hui, je poursuis mon parcours à travers un Bachelor **Administrateur d'Infrastructures Sécurisées (AIS)** afin d'approfondir mes connaissances en administration système, réseaux et cybersécurité.
