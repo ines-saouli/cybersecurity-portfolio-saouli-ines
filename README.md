@@ -97,11 +97,33 @@ Ce laboratoire m'a permis d'administrer un serveur Windows via **PowerShell** et
 
 ---
 
+## 🔐 TechNova Secure Infrastructure
+
+Projet d'administration et de sécurisation d'une infrastructure Linux simulant l'environnement d'une entreprise.
+
+Ce laboratoire m'a permis de mettre en œuvre plusieurs briques essentielles d'une infrastructure sécurisée : durcissement d'un serveur Linux, configuration d'un pare-feu UFW, déploiement d'un VPN WireGuard, mise en place d'un serveur DNS Bind9, d'un serveur Web Nginx ainsi que l'analyse du trafic réseau avec Wireshark.
+
+**Compétences développées :**
+- Hardening Linux
+- UFW Firewall
+- WireGuard VPN
+- Bind9 DNS
+- Nginx
+- Analyse réseau
+- Wireshark
+- Architecture réseau
+- Sécurisation d'infrastructure
+
+🔗 Repository : https://github.com/ines-saouli/technova-secure-infrastructure
+
+---
+
 # 🚀 Roadmap
 
 - ✅ Linux Mini File Server
 - ✅ StarTech Enterprise Server
 - ✅ StarTech Windows Server
+- ✅ TechNova Secure Infrastructure
 - 🟡 Home Lab Linux
 - 🟡 Active Directory
 - 🟡 Wazuh SIEM
