@@ -76,10 +76,32 @@ Mise en place d'une infrastructure Linux complète avec gestion des utilisateurs
 
 ---
 
+## 🪟 StarTech Windows Server Administration
+
+Projet d'administration d'un serveur Windows Server en environnement standalone.
+
+Ce laboratoire m'a permis d'administrer un serveur Windows via **PowerShell** et **CMD**, de gérer des comptes locaux, des permissions NTFS, des partages SMB, des politiques de mots de passe, des services Windows, des tâches planifiées et le registre Windows.
+
+**Compétences développées :**
+- Windows Server
+- PowerShell
+- CMD
+- Permissions NTFS
+- Partages SMB
+- Registre Windows
+- Services Windows
+- Tâches planifiées
+- Audit système
+
+🔗 Repository : https://github.com/ines-saouli/startech-windows-server
+
+---
+
 # 🚀 Roadmap
 
 - ✅ Linux Mini File Server
 - ✅ StarTech Enterprise Server
+- ✅ StarTech Windows Server
 - 🟡 Home Lab Linux
 - 🟡 Active Directory
 - 🟡 Wazuh SIEM
