@@ -112,5 +112,5 @@ Ce portfolio évoluera au fil de mon apprentissage avec de nouveaux projets auto
 
 # 📫 Me contacter
 
-- 💼 LinkedIn : *(https://www.linkedin.com/in/ines-saouli/)*
+- 💼 LinkedIn : *https://www.linkedin.com/in/ines-saouli/*
 - 📧 Email : *inessaouli36@gmail.com*
