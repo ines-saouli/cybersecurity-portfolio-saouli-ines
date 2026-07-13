@@ -118,12 +118,37 @@ Ce laboratoire m'a permis de mettre en œuvre plusieurs briques essentielles d'u
 
 ---
 
+## 🚨 Linux Incident Response Lab
+
+Projet de réponse à incident simulant la compromission d'un serveur Linux, suivi d'une phase complète de sécurisation et d'investigation.
+
+Ce laboratoire m'a permis de découvrir les différentes étapes d'une réponse à incident : identification des indicateurs de compromission, confinement de l'attaque, sécurisation du système, mise en place de mécanismes d'audit et analyse des traces laissées sur le serveur.
+
+**Compétences développées :**
+- Incident Response
+- Linux Hardening
+- Analyse de logs
+- OpenSSH
+- Fail2Ban
+- Auditd
+- PAM
+- iptables / nftables
+- Rsyslog
+- Investigation numérique
+- Forensics
+- Sécurisation d'un serveur Linux
+
+🔗 Repository : https://github.com/ines-saouli/linux-incident-response-lab
+
+---
+
 # 🚀 Roadmap
 
 - ✅ Linux Mini File Server
 - ✅ StarTech Enterprise Server
 - ✅ StarTech Windows Server
 - ✅ TechNova Secure Infrastructure
+- ✅ Linux Incident Response Lab
 - 🟡 Home Lab Linux
 - 🟡 Active Directory
 - 🟡 Wazuh SIEM
