@@ -54,7 +54,7 @@ Découverte de l'administration Linux, de la gestion des utilisateurs, des group
 - Bash
 - Administration système
 
-➡️ Repository : *(ajoute le lien ici)*
+➡️ Repository : *https://github.com/ines-saouli/linux-mini-file-server*
 
 ---
 
@@ -72,7 +72,7 @@ Mise en place d'une infrastructure Linux complète avec gestion des utilisateurs
 - Analyse de logs SSH
 - Diagnostic d'incidents
 
-➡️ Repository : *(ajoute le lien ici)*
+➡️ Repository : *https://github.com/ines-saouli/startech-linux-server*
 
 ---
 
