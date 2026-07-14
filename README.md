@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Inès 
+# 👋 Heyy moi c'est Inès 
 Bienvenue sur mon portfolio GitHub !
 
 Je suis actuellement en reconversion vers la cybersécurité et titulaire de la certification **Cisco CyberOps Associate**. Aujourd'hui, je poursuis mon parcours à travers un Bachelor **Administrateur d'Infrastructures Sécurisées (AIS)** afin d'approfondir mes connaissances en administration système, réseaux et cybersécurité.
@@ -188,6 +188,28 @@ Le projet couvre la reconnaissance réseau, l’énumération Web, l’exploitat
 
 ---
 
+## 🏰 Hogwarts Legacy KOTH
+
+Challenge King of the Hill basé sur une machine Linux vulnérable.
+
+Le projet couvre la reconnaissance réseau, l’analyse Web, l’exploitation d’un FTP anonyme, le cassage d’une archive ZIP, l’accès SSH et une élévation de privilèges via un binaire SUID.
+
+**Compétences développées :**
+- Nmap
+- Web Enumeration
+- FTP
+- CyberChef
+- fcrackzip
+- SSH
+- Linux Enumeration
+- SUID
+- GTFOBins
+- Privilege Escalation
+
+🔗 Repository : https://github.com/ines-saouli/hogwarts-legacy-koth
+
+---
+
 # 🚀 Roadmap
 
 ## ✅ Administration système
@@ -202,6 +224,7 @@ Le projet couvre la reconnaissance réseau, l’énumération Web, l’exploitat
 
 - ✅ NightOwl Media Penetration Test
 - ✅ Clinique Saint-Marcel Penetration Test
+- ✅ Hogwarts Legacy KOTH
 
 ## 🟡 Projets à venir
 
