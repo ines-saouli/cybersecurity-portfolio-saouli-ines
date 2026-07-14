@@ -166,6 +166,28 @@ Le projet couvre l’exploitation Web, la récupération de secrets, le déplace
 
 ---
 
+## 🏥 Clinique Saint-Marcel Penetration Test
+
+Premier rapport structuré de test d’intrusion réalisé sur une infrastructure de santé fictive.
+
+Le projet couvre la reconnaissance réseau, l’énumération Web, l’exploitation de plusieurs services vulnérables, la post-exploitation, l’analyse d’impact et la création d’un plan de remédiation priorisé.
+
+**Compétences développées :**
+- Nmap
+- Gobuster
+- Metasploit
+- Apache Tomcat
+- FTP
+- SSH
+- PostgreSQL
+- Post-Exploitation
+- Analyse des risques
+- Rédaction de rapport
+
+🔗 Repository : https://github.com/ines-saouli/clinique-saint-marcel-pentest
+
+---
+
 # 🚀 Roadmap
 
 ## ✅ Administration système
@@ -179,6 +201,7 @@ Le projet couvre l’exploitation Web, la récupération de secrets, le déplace
 ## ✅ Offensive Security
 
 - ✅ NightOwl Media Penetration Test
+- ✅ Clinique Saint-Marcel Penetration Test
 
 ## 🟡 Projets à venir
 
