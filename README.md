@@ -238,6 +238,27 @@ https://github.com/ines-saouli/pushdo-malware-investigation
 
 ---
 
+## 🏢 Enterprise Active Directory Home Lab
+
+Deployment of a virtualized Microsoft Active Directory environment using VMware Workstation Pro and Windows Server 2022.
+
+The project covers the installation of Active Directory Domain Services, creation of a new forest and domain, Domain Controller promotion, DNS integration and the creation of a structured hierarchy of Organizational Units, users and security groups.
+
+**Skills developed:**
+- Windows Server 2022
+- VMware Workstation
+- Active Directory
+- Domain Controller Deployment
+- DNS
+- Organizational Units
+- Users and Security Groups
+- Identity and Access Management
+- Windows Administration
+
+🔗 Repository: https://github.com/ines-saouli/enterprise-active-directory-lab
+
+---
+
 # 🚀 Roadmap
 
 ## ✅ Administration système
@@ -258,9 +279,12 @@ https://github.com/ines-saouli/pushdo-malware-investigation
 
 - ✅ Pushdo Malware Investigation
 
+## 🏠 Home Labs
+
+- ✅ Enterprise Active Directory Home Lab
+
 ## 🟡 Projets à venir
 
-- 🟡 Active Directory Home Lab
 - 🟡 Wazuh SIEM
 - 🟡 Splunk
 - 🟡 Windows Event Logs
